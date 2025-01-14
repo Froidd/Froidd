@@ -70,11 +70,11 @@
 
 ### 📊 My GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=froid&show_icons=true&locale=en&layout=compact&theme=radical" alt="froid" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuevedoUE&show_icons=true&locale=en&layout=compact&theme=radical" alt="froid" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=froid&show_icons=true&locale=en&theme=radical" alt="froid" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuevedoUE&show_icons=true&locale=en&theme=radical" alt="froid" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froid&theme=radical" alt="froid" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuevedoUE&theme=radical" alt="froid" />
 </p>

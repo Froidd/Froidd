@@ -31,37 +31,28 @@
   </a>
 </p>
 
-<p align="left">
-  <!-- C# (Small icon) -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="120" height="120"/>
-  </a>
+<!-- Group of small icons aligned horizontally -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left group: C# and Arduino -->
+  <div style="display: inline-block;">
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="120" height="120"/>
+    </a>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="120" height="120"/>
+    </a>
+  </div>
 
-  <!-- Arduino (Small icon) -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="120" height="120"/>
-  </a>
-</p>
-
-<!-- Unreal Engine (Big icon in the center) -->
-<p align="center">
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="150" height="150"/>
-  </a>
-</p>
-
-<!-- Unity and Blender aligned at the same height as the left icons -->
-<p align="center">
-  <!-- Unity (Small icon) -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="120" height="120"/>
-  </a>
-
-  <!-- Blender (Small icon) -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="120" height="120"/>
-  </a>
-</p>
+  <!-- Right group: Unity and Blender -->
+  <div style="display: inline-block;">
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="120" height="120"/>
+    </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="120" height="120"/>
+    </a>
+  </div>
+</div>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">

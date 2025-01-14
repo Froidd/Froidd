@@ -23,8 +23,9 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+
+<!-- C++ (Big icon in the center) -->
 <p align="center">
-  <!-- C++ (Big icon) -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="150" height="150"/>
   </a>
@@ -45,8 +46,10 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
   </a>
+</p>
 
-  <!-- Unreal Engine (Large icon in center) -->
+<!-- Unreal Engine (Big icon in the center) -->
+<p align="center">
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="150" height="150"/>
   </a>

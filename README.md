@@ -23,36 +23,41 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-
-<!-- C++ (Big icon in the center) -->
 <p align="center">
+  <!-- C++ (Big icon) -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="150" height="150"/>
   </a>
 </p>
 
-<!-- Group of small icons aligned horizontally -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left group: C# and Arduino -->
-  <div style="display: inline-block;">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="120" height="120"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="120" height="120"/>
-    </a>
-  </div>
+<p align="left">
+  <!-- C# (Small icon) -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/>
+  </a>
 
-  <!-- Right group: Unity and Blender -->
-  <div style="display: inline-block;">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="120" height="120"/>
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="120" height="120"/>
-    </a>
-  </div>
-</div>
+  <!-- Arduino (Small icon) -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
+  </a>
+
+  <!-- Blender (Small icon) -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
+  </a>
+
+  <!-- Unreal Engine (Large icon in center) -->
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="150" height="150"/>
+  </a>
+</p>
+
+<p align="right">
+  <!-- Unity (Small icon moved to the right) -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="150" height="150"/>
+  </a>
+</p>
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">

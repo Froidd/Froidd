@@ -42,4 +42,42 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="
+<p align="left">
+  <!-- Unreal Engine -->
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/100/000000/unreal-engine.png" alt="Unreal Engine" width="60" height="60"/>
+  </a>
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/100/000000/unity.png" alt="Unity" width="60" height="60"/>
+  </a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  </a>
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+  </a>
+  <!-- Blender -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="60" height="60"/>
+  </a>
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="60" height="60"/>
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=froid&show_icons=true&locale=en&layout=compact&theme=radical" alt="froid" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=froid&show_icons=true&locale=en&theme=radical" alt="froid" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froid&theme=radical" alt="froid" />
+</p>

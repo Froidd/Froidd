@@ -62,8 +62,3 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="120" height="120"/>
   </a>
 </p>
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froid&" alt="froid" />
-</p>

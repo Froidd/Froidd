@@ -22,12 +22,9 @@
   - Mastering **Blueprints** and **C++ Frameworks**.
   - Solving real-time physics and rendering issues.
 - **Unity**:
-  - Implementing **C# scripts** for gameplay mechanics.
-  - Building modular and reusable systems.
+  - Not too much experience but I can manage
 - **C++**:
   - Low-level programming techniques and best practices.
-  - Optimized algorithms for performance-critical applications.
-
 ---
 
 ### 📫 Reach Me At:

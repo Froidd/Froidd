@@ -41,11 +41,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   </a>
-
-  <!-- Blender (Small icon) -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
-  </a>
 </p>
 
 <!-- Unreal Engine (Big icon in the center) -->
@@ -56,9 +51,14 @@
 </p>
 
 <p align="right">
-  <!-- Unity (Small icon moved to the right) -->
+  <!-- Unity (Small icon to the right) -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="150" height="150"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="70" height="70"/>
+  </a>
+
+  <!-- Blender (Small icon to the right) -->
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70" height="70"/>
   </a>
 </p>
 

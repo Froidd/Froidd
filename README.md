@@ -50,8 +50,8 @@
   </a>
 </p>
 
-<!-- Unity and Blender aligned to the same level as the left group -->
-<p align="right">
+<!-- Unity and Blender aligned at the same height as the left icons -->
+<p align="center">
   <!-- Unity (Small icon) -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="120" height="120"/>
@@ -61,4 +61,9 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="120" height="120"/>
   </a>
+</p>
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=froid&" alt="froid" />
 </p>

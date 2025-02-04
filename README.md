@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Projects:
-- I'm currently preparing for the [Informatics Olympics 2025](https://2025.olimpiada-informatica.org)
+- Nothing right now
 
 ---
 

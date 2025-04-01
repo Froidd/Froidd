@@ -70,5 +70,5 @@
 
 ### 📊 My GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuevedoUE&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Froidd&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </p>

@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Learning:
-- **C++ Native**: Deepening my understanding of memory management, algorithms, and game development frameworks.
+- **HTML CSS**: To be able to create web pages.
 
 ---
 
@@ -70,7 +70,7 @@
 
 ### 📊 My GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuevedoUE&show_icons=true&locale=en&layout=compact&theme=radical" alt="froid" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuevedoUE&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuevedoUE&show_icons=true&locale=en&theme=radical" alt="froid" />

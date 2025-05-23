@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Froid</h1>
 <h3 align="center">Un apasionado desarrollador de videojuegos de España, Islas Canarias, no, no soy un moro</h3>
+<h3 align="center"> Que vuelva Franco... 🙏🙏</h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=froid&label=Profile%20views&color=0e75b6&style=flat" alt="froid" />
